@@ -90,10 +90,10 @@ escribir = scanner.nextInt();
         }
                     break;
                 case 6:
-                    System.out.println("Elegiste la Opción 6");
+                    System.out.println("Combate entre personajes");
                     break;
                 case 7:
-                    System.out.println("Elegiste la Opción 7");
+                    System.out.println("Ver historial de combates");
                     break;
                 case 8:
                     System.out.println("Este programa fue hecho por Guillermo Enrique Marroquin Morán");
